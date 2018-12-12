@@ -9,6 +9,6 @@
 - [x] PHP
 - [x] Freaking lots of :coffee:
 
-This is live on my personal domain  :bowtie: [ŠimonBuryan.CZ](http://www.simonburyan.cz/).
+This is live on my personal domain  :bowtie: [ŠimonBuryan.CZ](http://www.simonburyan.cz/port/).
 
 ###### Contact: simon.buryan[-at-]seznam.cz
